@@ -28,7 +28,7 @@ link:"https://www.netflix.com/title/70143836"
     title:"A Netflix Original Series",
     sname:"Peaky Blinders",
     link:"https://www.netflix.com/title/80002479"
-}
+},
 {
     imgsrc:"https://i.pinimg.com/originals/9c/9d/da/9c9dda37ef3df025545621c0fee81659.jpg",
     title:"ANetflix Original Series",
